@@ -5,7 +5,7 @@ Using various NLP models for classifying sarcastic and non-sarcastic texts.
 
 ## Dataset
 
-&rarr The dataset used for this project is taken from Kaggle (<a href = "https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection">dataset</a>).
+The dataset used for this project is taken from Kaggle (<a href = "https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection">dataset</a>).
 
 The dataset consists of approximately 55k records. Each record consists of 3 attributes:
 
