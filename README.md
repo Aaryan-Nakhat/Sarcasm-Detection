@@ -39,7 +39,7 @@ The performance of various classifiers is shown below:
 
 ## Improvements
 
-* Due to lack of computational resources, the base version of BERT uncased is used. Using the latest SOTA NLP models will help improve the performance further.
+* Due to lack of computational resources, the base version of BERT-uncased is used. Using the latest SOTA NLP models will help improve the performance further.
 * Increasing the batch_size and the no. of epochs and playing around with model hyperparameters can also help improve the metrics.
 
 
