@@ -15,7 +15,7 @@ The dataset consists of approximately 55k records. Each record consists of 3 att
 
 * ```article_link```: link to the original news article
 
-
+___________
 
 Majority of Sarcasm Detection studies make use of Twitter datasets which are collected using hashtag based supervision.
 
