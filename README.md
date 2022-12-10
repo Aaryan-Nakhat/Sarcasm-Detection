@@ -16,7 +16,7 @@ The dataset consists of approximately 55k records. Each record consists of 3 att
 * ```article_link```: link to the original news article
 
 
-Majority of Sarcasm Detection studies make use of Twitter datasets which are collected using hashtag based supervision. The downside of such datasets is that they are very noisy in terms of the language used.
+Majority of Sarcasm Detection studies make use of Twitter datasets which are collected using hashtag-based supervision. The downside of such datasets is that they are very noisy in terms of the language used.
 
 Moreover, most tweets on Twitter are dependent on other tweets. Thus they have some inter-dependence. This begs the need of having context-dependent tweets for a given tweet. This is generally not feasible for platforms like Twitter which are flooded with enormous amounts of tweets daily.
 
