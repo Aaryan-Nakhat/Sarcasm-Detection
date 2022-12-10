@@ -7,7 +7,7 @@ Using various NLP models for classifying sarcastic and non-sarcastic texts.
 
 The dataset used for this project is taken from Kaggle (<a href = "https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection">dataset</a>).
 
-The dataset consists of approximately 55k records. Each record consists of three attributes:
+The dataset consists of approximately 55k records. Each record consists of 3 attributes:
 
 * ```is_sarcastic```: 1 if the record is sarcastic otherwise 0
 
@@ -23,7 +23,7 @@ The downside of such datasets is that they are very noisy with respect to the la
 
 Moreover, most tweets on Twitter are dependent on other tweets. Thus they have some inter-dependence. This begs the need of having context-dependent tweets for a given tweet. This is generally not feasible for platforms like Twitter which are flooded with enormous amounts of tweets daily.
 
-The News Headlines dataset overcomes this issue of inter-dependence by collecting data from two independent sources. The data is less noisy and the texts are generally formal in nature.
+The News Headlines dataset overcomes this issue of inter-dependence by collecting data from 2 independent sources. The data is less noisy and the texts are generally formal in nature.
 
 
 ## Results
